@@ -12,32 +12,19 @@ public class FileReader {
     private List<String> list;
     private Path path;
 
-    public FileReader(String filePath) {
+    public FileReader(String filePath) throws IOException {
         path = Paths.get(filePath);
-
-        try {
-            list = Files.readAllLines(path);
-        } catch (IOException e) {
-            System.out.println("Invalid file/cannot find file");
-        }
+        list = Files.readAllLines(path);
     }
 
-    public void writeLineToFile(String line) {
-        try {
-            Files.writeString(path, line + System.lineSeparator(), StandardOpenOption.APPEND);
-            list.add(line);
-        } catch (IOException e) {
-            System.out.println("Invalid file/cannot find file");
-        }
+    public void writeLineToFile(String line) throws IOException {
+        Files.writeString(path, line + System.lineSeparator(), StandardOpenOption.APPEND);
+        list.add(line);
     }
 
-    public void writeManyLinesToFile(List<String> lines) {
-        try {
-            Files.write(path, lines, StandardOpenOption.APPEND);
-            list.addAll(lines);
-        } catch (IOException e) {
-            System.out.println("Invalid file/cannot find file");
-        }
+    public void writeManyLinesToFile(List<String> lines) throws IOException {
+        Files.write(path, lines, StandardOpenOption.APPEND);
+        list.addAll(lines);
     }
 
     public void writeToNewFile(String fileName) {
