@@ -5,7 +5,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Main {
-    public static void main(String[] args) {
+
+    public static void fileReaderProgram() {
         String filePath = "src/main/resources/names.txt";
         try {
             FileReader fileReader = new FileReader(filePath);
@@ -21,6 +22,9 @@ public class Main {
         } catch (IOException e) {
             System.out.println("Invalid file path");
         }
+    }
+    public static void main(String[] args) {
+        fileReaderProgram();
 
 
     }
