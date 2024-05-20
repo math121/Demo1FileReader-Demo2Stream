@@ -23,9 +23,35 @@ public class Main {
             System.out.println("Invalid file path");
         }
     }
-    public static void main(String[] args) {
-        fileReaderProgram();
 
+    public static void streamJSONData() throws IOException {
+        String filePath = "src/main/resources/MOCK_DATA.json";
+        StreamData streamData = new StreamData(filePath);
+
+        var femaleGender = streamData.getPeopleByGender("Female");
+        var favColor = streamData.getPeopleByFavoriteColor("Blue");
+        var catchPhrases = streamData.getCatchPhrases();
+        var peopleThatStartWithALetter = streamData.getFirstNamesThatStartWithALetter('A');
+
+        System.out.println("\nPeople with Female gender:\n");
+        femaleGender.forEach(System.out::println);
+
+        System.out.println("\nPeople with fav Blue color:\n");
+        favColor.forEach(System.out::println);
+
+        System.out.println("\nCatch phrases:\n");
+        catchPhrases.forEach(System.out::println);
+
+        System.out.println("\nPeople that start with letter A:\n");
+        peopleThatStartWithALetter.forEach(System.out::println);
+
+
+    }
+
+    public static void main(String[] args) throws IOException {
+        //fileReaderProgram();
+
+        streamJSONData();
 
     }
 }
