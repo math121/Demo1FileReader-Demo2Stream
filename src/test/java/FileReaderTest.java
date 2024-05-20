@@ -10,12 +10,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class FileReaderTest {
 
-    private final String ERROR_MESSAGE = "java.nio.file.NoSuchFileException: src\\test\\resources\\invalid.txt";
-
     @Test
     public void shouldHave2ItemsInListAfterReadingFile() throws IOException {
         FileReader fileReader = new FileReader("src/test/resources/test.txt");
-        System.out.println(fileReader.getList());
 
         assertEquals(2, fileReader.getList().size());
         assertIterableEquals(Arrays.asList("One item", "Two Item"), fileReader.getList());

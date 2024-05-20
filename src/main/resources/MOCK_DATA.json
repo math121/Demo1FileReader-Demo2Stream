@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "first_name": "Gustavus",
+    "last_name": "Sommerfeld",
+    "email": "gsommerfeld0@virginia.edu",
+    "gender": "Male",
+    "catch_phrase": "Devolved zero administration algorithm",
+    "color": "Mauv"
+  },
+  {
+    "id": 2,
+    "first_name": "Fitz",
+    "last_name": "Boylin",
+    "email": "fboylin1@microsoft.com",
+    "gender": "Non-binary",
+    "catch_phrase": "User-centric didactic attitude",
+    "color": "Violet"
+  },
+  {
+    "id": 3,
+    "first_name": "Sarine",
+    "last_name": "Decruse",
+    "email": "sdecruse2@tamu.edu",
+    "gender": "Female",
+    "catch_phrase": "Reactive exuding monitoring",
+    "color": "Aquamarine"
+  },
+  {
+    "id": 4,
+    "first_name": "Cherri",
+    "last_name": "Hacket",
+    "email": "chacket3@livejournal.com",
+    "gender": "Agender",
+    "catch_phrase": "Exclusive multimedia knowledge base",
+    "color": "Khaki"
+  },
+  {
+    "id": 5,
+    "first_name": "Doyle",
+    "last_name": "Greyes",
+    "email": "dgreyes4@moonfruit.com",
+    "gender": "Male",
+    "catch_phrase": "Fully-configurable logistical internet solution",
+    "color": "Green"
+  },
+  {
+    "id": 6,
+    "first_name": "Kipp",
+    "last_name": "Sewley",
+    "email": "ksewley5@reference.com",
+    "gender": "Female",
+    "catch_phrase": "Team-oriented homogeneous data-warehouse",
+    "color": "Violet"
+  },
+  {
+    "id": 7,
+    "first_name": "Kristofor",
+    "last_name": "Ottee",
+    "email": "kottee6@surveymonkey.com",
+    "gender": "Male",
+    "catch_phrase": "Horizontal analyzing conglomeration",
+    "color": "Turquoise"
+  },
+  {
+    "id": 8,
+    "first_name": "Curry",
+    "last_name": "Lehrer",
+    "email": "clehrer7@shinystat.com",
+    "gender": "Male",
+    "catch_phrase": "Versatile didactic artificial intelligence",
+    "color": "Blue"
+  },
+  {
+    "id": 9,
+    "first_name": "Damon",
+    "last_name": "Carruthers",
+    "email": "dcarruthers8@umich.edu",
+    "gender": "Male",
+    "catch_phrase": "Diverse logistical access",
+    "color": "Maroon"
+  },
+  {
+    "id": 10,
+    "first_name": "Robena",
+    "last_name": "Inseal",
+    "email": "rinseal9@bloomberg.com",
+    "gender": "Female",
+    "catch_phrase": "Organic intermediate challenge",
+    "color": "Indigo"
+  },
+  {
+    "id": 11,
+    "first_name": "Sven",
+    "last_name": "MacVaugh",
+    "email": "smacvaugha@com.com",
+    "gender": "Male",
+    "catch_phrase": "Multi-tiered needs-based utilisation",
+    "color": "Teal"
+  },
+  {
+    "id": 12,
+    "first_name": "Tessi",
+    "last_name": "Ainslie",
+    "email": "tainslieb@tinyurl.com",
+    "gender": "Female",
+    "catch_phrase": "Programmable non-volatile emulation",
+    "color": "Violet"
+  },
+  {
+    "id": 13,
+    "first_name": "Aigneis",
+    "last_name": "Vasiljevic",
+    "email": "avasiljevicc@fastcompany.com",
+    "gender": "Female",
+    "catch_phrase": "Implemented radical paradigm",
+    "color": "Khaki"
+  },
+  {
+    "id": 14,
+    "first_name": "Marietta",
+    "last_name": "Demeza",
+    "email": "mdemezad@is.gd",
+    "gender": "Male",
+    "catch_phrase": "Assimilated 5th generation migration",
+    "color": "Indigo"
+  },
+  {
+    "id": 15,
+    "first_name": "Eyde",
+    "last_name": "Skae",
+    "email": "eskaee@nytimes.com",
+    "gender": "Female",
+    "catch_phrase": "Innovative actuating knowledge base",
+    "color": "Puce"
+  },
+  {
+    "id": 16,
+    "first_name": "Valentine",
+    "last_name": "Hallward",
+    "email": "vhallwardf@google.cn",
+    "gender": "Male",
+    "catch_phrase": "Operative scalable policy",
+    "color": "Puce"
+  },
+  {
+    "id": 17,
+    "first_name": "Anestassia",
+    "last_name": "O'Sheerin",
+    "email": "aosheering@wisc.edu",
+    "gender": "Female",
+    "catch_phrase": "Managed grid-enabled workforce",
+    "color": "Fuscia"
+  },
+  {
+    "id": 18,
+    "first_name": "Gilberte",
+    "last_name": "Oxford",
+    "email": "goxfordh@japanpost.jp",
+    "gender": "Female",
+    "catch_phrase": "Configurable reciprocal archive",
+    "color": "Goldenrod"
+  },
+  {
+    "id": 19,
+    "first_name": "Queenie",
+    "last_name": "Friberg",
+    "email": "qfribergi@usa.gov",
+    "gender": "Female",
+    "catch_phrase": "Focused explicit alliance",
+    "color": "Indigo"
+  },
+  {
+    "id": 20,
+    "first_name": "Karee",
+    "last_name": "Layburn",
+    "email": "klayburnj@phpbb.com",
+    "gender": "Female",
+    "catch_phrase": "Digitized global moratorium",
+    "color": "Aquamarine"
+  },
+  {
+    "id": 21,
+    "first_name": "Dotti",
+    "last_name": "Chiommienti",
+    "email": "dchiommientik@hp.com",
+    "gender": "Female",
+    "catch_phrase": "Reactive tangible forecast",
+    "color": "Blue"
+  },
+  {
+    "id": 22,
+    "first_name": "Jarrod",
+    "last_name": "Barnhill",
+    "email": "jbarnhilll@facebook.com",
+    "gender": "Male",
+    "catch_phrase": "Vision-oriented system-worthy protocol",
+    "color": "Yellow"
+  },
+  {
+    "id": 23,
+    "first_name": "Kennie",
+    "last_name": "Neesam",
+    "email": "kneesamm@smh.com.au",
+    "gender": "Male",
+    "catch_phrase": "Realigned grid-enabled contingency",
+    "color": "Yellow"
+  },
+  {
+    "id": 24,
+    "first_name": "Nikaniki",
+    "last_name": "Thunderman",
+    "email": "nthundermann@netscape.com",
+    "gender": "Female",
+    "catch_phrase": "Public-key heuristic definition",
+    "color": "Puce"
+  },
+  {
+    "id": 25,
+    "first_name": "Joey",
+    "last_name": "Lamberts",
+    "email": "jlambertso@webs.com",
+    "gender": "Female",
+    "catch_phrase": "Phased mobile Graphical User Interface",
+    "color": "Orange"
+  },
+  {
+    "id": 26,
+    "first_name": "Rayner",
+    "last_name": "Edgworth",
+    "email": "redgworthp@t.co",
+    "gender": "Male",
+    "catch_phrase": "Centralized radical migration",
+    "color": "Puce"
+  },
+  {
+    "id": 27,
+    "first_name": "Delphinia",
+    "last_name": "Parrott",
+    "email": "dparrottq@google.com.hk",
+    "gender": "Female",
+    "catch_phrase": "Exclusive client-driven initiative",
+    "color": "Indigo"
+  },
+  {
+    "id": 28,
+    "first_name": "Gerty",
+    "last_name": "Spottiswoode",
+    "email": "gspottiswooder@businesswire.com",
+    "gender": "Polygender",
+    "catch_phrase": "Robust dynamic capability",
+    "color": "Indigo"
+  },
+  {
+    "id": 29,
+    "first_name": "Cecil",
+    "last_name": "Oag",
+    "email": "coags@illinois.edu",
+    "gender": "Male",
+    "catch_phrase": "Managed regional data-warehouse",
+    "color": "Fuscia"
+  },
+  {
+    "id": 30,
+    "first_name": "Cazzie",
+    "last_name": "Rayman",
+    "email": "craymant@comcast.net",
+    "gender": "Male",
+    "catch_phrase": "Down-sized high-level algorithm",
+    "color": "Indigo"
+  },
+  {
+    "id": 31,
+    "first_name": "Damian",
+    "last_name": "McGeneay",
+    "email": "dmcgeneayu@exblog.jp",
+    "gender": "Male",
+    "catch_phrase": "Digitized eco-centric middleware",
+    "color": "Green"
+  },
+  {
+    "id": 32,
+    "first_name": "Bernarr",
+    "last_name": "Crocetti",
+    "email": "bcrocettiv@youtube.com",
+    "gender": "Male",
+    "catch_phrase": "Virtual discrete utilisation",
+    "color": "Indigo"
+  },
+  {
+    "id": 33,
+    "first_name": "Orland",
+    "last_name": "Jeeks",
+    "email": "ojeeksw@ucla.edu",
+    "gender": "Male",
+    "catch_phrase": "Persevering web-enabled middleware",
+    "color": "Teal"
+  },
+  {
+    "id": 34,
+    "first_name": "Kristy",
+    "last_name": "Heikkinen",
+    "email": "kheikkinenx@home.pl",
+    "gender": "Female",
+    "catch_phrase": "Cloned foreground standardization",
+    "color": "Fuscia"
+  },
+  {
+    "id": 35,
+    "first_name": "Jessalin",
+    "last_name": "Ollerenshaw",
+    "email": "jollerenshawy@techcrunch.com",
+    "gender": "Female",
+    "catch_phrase": "Horizontal regional matrices",
+    "color": "Yellow"
+  },
+  {
+    "id": 36,
+    "first_name": "Torin",
+    "last_name": "Rebillard",
+    "email": "trebillardz@canalblog.com",
+    "gender": "Male",
+    "catch_phrase": "Down-sized solution-oriented project",
+    "color": "Green"
+  },
+  {
+    "id": 37,
+    "first_name": "Raina",
+    "last_name": "Cranstone",
+    "email": "rcranstone10@si.edu",
+    "gender": "Female",
+    "catch_phrase": "Synergized fresh-thinking project",
+    "color": "Pink"
+  },
+  {
+    "id": 38,
+    "first_name": "Joannes",
+    "last_name": "Keerl",
+    "email": "jkeerl11@meetup.com",
+    "gender": "Female",
+    "catch_phrase": "Digitized modular forecast",
+    "color": "Teal"
+  },
+  {
+    "id": 39,
+    "first_name": "Dieter",
+    "last_name": "Shervington",
+    "email": "dshervington12@freewebs.com",
+    "gender": "Male",
+    "catch_phrase": "Pre-emptive encompassing collaboration",
+    "color": "Yellow"
+  },
+  {
+    "id": 40,
+    "first_name": "Agnes",
+    "last_name": "Gladebeck",
+    "email": "agladebeck13@npr.org",
+    "gender": "Female",
+    "catch_phrase": "Compatible intangible open architecture",
+    "color": "Green"
+  }
+]
